@@ -1,5 +1,5 @@
 name: cv
-title: Vladimir Izmalkov's Curriculum Vitae
+title: Curriculum Vitae
 version: 0.1
 start_page: ROOT:summary.adoc
 asciidoc:
