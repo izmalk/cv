@@ -1,10 +1,10 @@
 name: cv
-title: Curriculum vitae
+title: Vladimir Izmalkov's Curriculum Vitae
 version: 0.1
-start_page: summary.adoc
+start_page: ROOT:summary.adoc
 asciidoc:
   attributes:
     source-language: asciidoc@
     table-caption: false
 nav:
-- summary.adoc
+- modules/ROOT/summary.adoc
