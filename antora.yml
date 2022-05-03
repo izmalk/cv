@@ -1,0 +1,10 @@
+name: cv
+title: Curriculum vitae
+version: 0.1
+start_page: summary.adoc
+asciidoc:
+  attributes:
+    source-language: asciidoc@
+    table-caption: false
+nav:
+- summary.adoc
